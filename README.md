@@ -5,9 +5,9 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Function Compute, Cloud Architecture, and Artificial Intelligence
-- 📚 Enjoying reading and accumulating knowledge
-- 📖 Novels: *Jianlai* and *Snow Sword Stride*
-- 📺 Anime: *One Piece* and *The Outcast*
+- 📚 &nbsp; Enjoying reading and accumulating knowledge
+- 📖 &nbsp; Novels: *《剑来》* and *《雪中悍刀行》*
+- 📺 &nbsp; Anime: *One Piece* and *《一人之下》*
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinKang-Xiong&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JinKang-Xiong&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
