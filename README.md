@@ -4,10 +4,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Function Compute, Cloud Architecture, and Artificial Intelligence
+- 📚 Enjoying reading and accumulating knowledge
+- 📖 Novels: *Jianlai* and *Snow Sword Stride*
+- 📺 Anime: *One Piece* and *The Outcast*
 
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinKang-Xiong&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JinKang-Xiong&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
