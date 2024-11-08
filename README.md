@@ -10,7 +10,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - 📺 &nbsp; Anime: *One Piece* and *《一人之下》*
 
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinKang-Xiong&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JinKang-Xiong&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JinKang-Xiong&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JinKang-Xiong&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
+
 
 
 ### 🍉 Tech Stack
