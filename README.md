@@ -18,5 +18,4 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 ### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
-### 🍏 Contribution
-[![JinKang-Xiong's GitHub | Stats](https://stats.quira.sh/JinKang-Xiong/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JinKang-Xiong)
+
