@@ -10,7 +10,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - 📺 &nbsp; Cartoon: *One Piece* and *《一人之下》* and *《星游记》*
 
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JinKang-Xiong&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=JinKang-Xiong&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WakeUp-Jin&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=WakeUp-Jin&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
 
 
@@ -21,4 +21,4 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,azure,mongodb)](https://skillicons.dev)
 
 ### 🍏 Contribution
-[![JinKang-Xiong's GitHub | Stats](https://stats.quira.sh/JinKang-Xiong/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JinKang-Xiong)
+[![JinKang-Xiong's GitHub | Stats](https://stats.quira.sh/WakeUp-Jin/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JinKang-Xiong)
