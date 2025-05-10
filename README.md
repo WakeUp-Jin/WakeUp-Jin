@@ -20,5 +20,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 ### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,azure,mongodb)](https://skillicons.dev)
 
-### 🍏 Contribution
-[![JinKang-Xiong's GitHub | Stats](https://stats.quira.sh/WakeUp-Jin/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JinKang-Xiong)
+### 🍏 Contact 
+- Email：2385472291@qq.com
+- 掘金：https://juejin.cn/user/4224735995759975
+- CSDN：https://blog.csdn.net/m0_56132701
