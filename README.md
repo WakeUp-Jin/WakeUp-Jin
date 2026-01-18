@@ -10,8 +10,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - 📺 &nbsp; Cartoon: *One Piece* and *《一人之下》* and *《星游记》*
 
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WakeUp-Jin&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=WakeUp-Jin&count_private=true&show_icons=true" height=145/></span>]()
-
+<!--
+[<span><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WakeUp-Jin&layout=compact" height=145/></a></span>
+<span><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=WakeUp-Jin&count_private=true&show_icons=true" height=145/></a></span>]()
+-->
 
 
 ### 🍉 Tech Stack
