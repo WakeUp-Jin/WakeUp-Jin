@@ -16,10 +16,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 
 ### 🍉 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,vue,pinia,express,react,redux,bootstrap,html,css,js,jquery,ts,less,java,fastapi,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,bun,nodejs,prisma,express,js,ts,vue,pinia,react,redux,html,css,java,fastapi,python)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,azure,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,azure,mongodb)](https://skillicons.dev)
 
 ### 🍏 Contact 
 - Email：2385472291@qq.com
