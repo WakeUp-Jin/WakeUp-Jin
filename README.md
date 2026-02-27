@@ -23,7 +23,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 ### 🍏 Contact 
 - Email：2385472291@qq.com
+- 微信号：a2385472291
 - 掘金：https://juejin.cn/user/4224735995759975
 - CSDN：https://blog.csdn.net/m0_56132701
-- 微信号：a2385472291
 - 微信公众号：https://mp.weixin.qq.com/s/5flPF92JcI4bInMQKlDujA - 《RAG策略》
