@@ -23,7 +23,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 ### 🌴 Building Now
 - 🪐 [大模型应用开发 -上下文工程与运行空间实践指南](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) - 上下文工程是设计原则，Agent Harness 是构建目标
-- 🌵 [Reason Code](https://github.com/WakeUp-Jin/reason-code) - Reason Code 是一款编码Agent工具，它集成于终端环境中
+- 🌵 [Reason Code](https://github.com/WakeUp-Jin/reason-code) - Reason Code 是一款编码Agent，它集成于终端环境中
 - 🎶 [音频制作Agent](https://github.com/WakeUp-Jin/reasonVoiceAgent-introduction) - AI 驱动的音频创作协同平台 —— 让 AI 智能体帮你完成配音、音效、BGM 的智能匹配与生成
 
 ### 🍏 Contact 
