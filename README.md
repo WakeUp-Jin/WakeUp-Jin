@@ -32,4 +32,4 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 ### 🍏 Contact 
 公众号「锦康灵感铺」 · 微信号「a2385472291」 · 2385472291@qq.com · [稀土掘金](https://juejin.cn/user/4224735995759975) · [小红书](https://www.xiaohongshu.com/user/profile/5f2b55730000000001005a90)
-> 我目前对新的机会保持开放。如果你的团队在做大模型应用 /Agent 相关产品，或者只是想交流想法、交个朋友，都非常欢迎随时找我聊聊 
+> 我目前对新的机会保持开放。如果你的团队在做大模型应用 /Agent 相关产品，或者只是想交流想法、都非常欢迎随时找我聊聊 
