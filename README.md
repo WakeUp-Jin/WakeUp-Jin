@@ -14,7 +14,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 [<span><a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/top-langs.svg" height=145/></a></span>
 <span><a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/stats.svg" height=145/></a></span>]()
 
-
+### 🛰️ What I'm Exploring  
+- Agent Harness Engineering Practices: building harnesses across more domains and distilling them into battle-tested, reusable experience..  
+- Context Engineering as a Design Principle: Continuing to dive deeper into context, especially its management and acquisition.  
+- Anything Worth Learning and Building: Open source, English, LLM inference infrastructure, Coding Agents, agentic engineering.
 
 ### 🍉 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nestjs,bun,nodejs,prisma,express,js,ts,vue,pinia,react,redux,java,fastapi,python)](https://skillicons.dev)
