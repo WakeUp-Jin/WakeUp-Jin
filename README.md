@@ -32,6 +32,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - 🚄 [code-develop-harness-init](https://github.com/WakeUp-Jin/code-develop-harness-init) - 面向 Agent-first 开发的项目初始化模板（Harness）—— 人定方向，Agent 执行
 - 🎶 [音频制作Agent](https://github.com/WakeUp-Jin/reasonVoiceAgent-introduction) - AI 驱动的音频创作协同平台 —— 让 AI 智能体帮你完成配音、音效、BGM 的智能匹配与生成
 - 🌵 [Reason Code](https://github.com/WakeUp-Jin/reason-code) - Reason Code 是一款编码Agent，它集成于终端环境中
+- 🦾 [HeartClaw](https://github.com/WakeUp-Jin/heartclaw) - 会自我进化的个人 AI Agent,长短期记忆与自治巡检，还能通过「天工」自动锻造新工具，让 Agent 不断长出新能力
 
 ### 🍏 Contact 
 公众号「锦康灵感铺」 · 微信号「a2385472291」 · 2385472291@qq.com · [稀土掘金](https://juejin.cn/user/4224735995759975) · [小红书](https://www.xiaohongshu.com/user/profile/5f2b55730000000001005a90)
