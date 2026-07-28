@@ -17,7 +17,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 ### 🛰️ What I'm Exploring  
 - Multi-agent collaboration is a long-term challenge. Like context management, it is fascinating and worth exploring.
 - Agent evaluation is the foundation for continuously improving Agents—and the starting point for everything good. 
-- Anything Worth Learning and Building: Open source, English, LLM inference infrastructure, Coding Agents, agentic engineering.
+- Anything Worth Learning and Building: Open source, English, LLM inference infrastructure, Coding Agents,
 
 ### 🍉 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=nestjs,bun,nodejs,prisma,express,js,ts,vue,pinia,react,redux,java,fastapi,python)](https://skillicons.dev)
