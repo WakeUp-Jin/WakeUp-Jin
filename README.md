@@ -4,8 +4,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Function Compute, Cloud Architecture, and Artificial Intelligence
+- 🤔 &nbsp; For engineers building LLM applications, what matters most is being pragmatic.
+- 🌱 &nbsp; I want to build more Harnesses—and through them, fully unlock the capabilities of models.
 - 📚 &nbsp; Enjoying reading and accumulating knowledge
 - 📖 &nbsp; Novels: *《剑来》* and *《雪中悍刀行》*
 - 📺 &nbsp; Cartoon: *One Piece* and *《一人之下》* and *《星游记》*
@@ -15,8 +15,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 <span><a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/stats.svg" height=145/></a></span>]()
 
 ### 🛰️ What I'm Exploring  
-- Agent Harness Engineering Practices: building harnesses across more domains and distilling them into battle-tested, reusable experience..  
-- Context Engineering as a Design Principle: Continuing to dive deeper into context, especially its management and acquisition.  
+- Multi-agent collaboration is a long-term challenge. Like context management, it is fascinating and worth exploring.
+- Agent evaluation is the foundation for continuously improving Agents—and the starting point for everything good. 
 - Anything Worth Learning and Building: Open source, English, LLM inference infrastructure, Coding Agents, agentic engineering.
 
 ### 🍉 Tech Stack
