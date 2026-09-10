@@ -19,11 +19,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - Agent evaluation is the foundation for continuously improving Agents—and the starting point for everything good. 
 - Anything Worth Learning and Building: Open source, English, LLM inference infrastructure, Coding Agents,
 
-### 🍉 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=nestjs,bun,nodejs,prisma,express,js,ts,vue,pinia,react,redux,java,fastapi,python)](https://skillicons.dev)
-
-### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,redis,docker,git,npm,pnpm,yarn,vite,vitest,webpack,babel,github,azure,mongodb)](https://skillicons.dev)
 
 ### 🌴 Building Now
 - 🌈 [大模型应用开发 -上下文工程与运行空间实践指南](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) - 上下文工程是设计原则，Agent Harness 是构建目标
