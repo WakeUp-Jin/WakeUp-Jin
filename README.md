@@ -22,13 +22,13 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 
 ### 🌴 Building Now
-- 🌈 [大模型应用开发 -上下文工程与运行空间实践指南](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) - Context engineering is the design principle; Agent Harness is the build target
+- 🌈 [大模型应用开发 -上下文工程与运行空间指南](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) - Context engineering is the design principle; Agent Harness is the build target
 - 🪐 [Actspace Agent](https://github.com/WakeUp-Jin/actspace-agent) - A local Agent desktop app and Harness for models, starting from a Coding Agent
 - 🍍 [agent-harness-dev](https://github.com/WakeUp-Jin/agent-harness-dev) -  A Skill for building Agent backends
 - 🚄 [code-develop-harness-init](https://github.com/WakeUp-Jin/code-develop-harness-init) - A project init template (Harness) for Agent-first development
 - 🎶 [音频制作Agent](https://github.com/WakeUp-Jin/reasonVoiceAgent-introduction) -  An AI-driven audio platform for voice-over, sound effects, and BGM
 - 🌵 [Reason Code](https://github.com/WakeUp-Jin/reason-code) - Reason Code is a coding Agent that runs in your terminal
-- 🦾 [HeartClaw](https://github.com/WakeUp-Jin/heartclaw) - A self-evolving personal AI Agent with long- and short-term memory, autonomous patrols, and self-forged tools
+- 🦾 [HeartClaw](https://github.com/WakeUp-Jin/heartclaw) - A self-evolving personal AI Agent with memory, autonomous patrols, and self-forged tools
 
 ### 🍏 Contact 
 公众号「锦康灵感铺」 · 微信号「a2385472291」 · 2385472291@qq.com · [稀土掘金](https://juejin.cn/user/4224735995759975) · [小红书](https://www.xiaohongshu.com/user/profile/5f2b55730000000001005a90)
