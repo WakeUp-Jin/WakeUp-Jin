@@ -9,6 +9,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - 📚 &nbsp; Enjoying reading and accumulating knowledge
 - 📖 &nbsp; Novels: *《剑来》* and *《雪中悍刀行》*
 - 📺 &nbsp; Cartoon: *One Piece* and *《一人之下》* and *《星游记》*
+- 🔗 &nbsp; Want to know more? Check out my blog: [EN](<EN_BLOG_URL>), [中文](<ZH_BLOG_URL>).
 
 
 [<span><a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/top-langs.svg" height=145/></a></span>
@@ -21,13 +22,13 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 
 
 ### 🌴 Building Now
-- 🌈 [大模型应用开发 -上下文工程与运行空间实践指南](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) - 上下文工程是设计原则，Agent Harness 是构建目标
-- 🪐 [Actspace Agent](https://github.com/WakeUp-Jin/actspace-agent) - Actspace 是一个本地 Agent 桌面应用，是模型的Harness,从Coding Agent开始,最终愿景是彻底释放模型能力
-- 🍍 [agent-harness-dev](https://github.com/WakeUp-Jin/agent-harness-dev) - 一份构建Agent后端的Skill，从Context Engineering与Harness Engineering的设计理念整理出来的
-- 🚄 [code-develop-harness-init](https://github.com/WakeUp-Jin/code-develop-harness-init) - 面向 Agent-first 开发的项目初始化模板（Harness）—— 人定方向，Agent 执行
-- 🎶 [音频制作Agent](https://github.com/WakeUp-Jin/reasonVoiceAgent-introduction) - AI 驱动的音频创作协同平台 —— 让 AI 智能体帮你完成配音、音效、BGM 的智能匹配与生成
-- 🌵 [Reason Code](https://github.com/WakeUp-Jin/reason-code) - Reason Code 是一款编码Agent，它集成于终端环境中
-- 🦾 [HeartClaw](https://github.com/WakeUp-Jin/heartclaw) - 会自我进化的个人 AI Agent,长短期记忆与自治巡检，还能通过「天工」自动锻造新工具，让 Agent 不断长出新能力
+- 🌈 [大模型应用开发 -上下文工程与运行空间实践指南](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) - Context engineering is the design principle; Agent Harness is the build target
+- 🪐 [Actspace Agent](https://github.com/WakeUp-Jin/actspace-agent) - A local Agent desktop app and Harness for models, starting from a Coding Agent
+- 🍍 [agent-harness-dev](https://github.com/WakeUp-Jin/agent-harness-dev) - A Skill for building Agent backends, distilled from the design ideas of Context Engineering and Harness Engineering
+- 🚄 [code-develop-harness-init](https://github.com/WakeUp-Jin/code-develop-harness-init) - A project init template (Harness) for Agent-first development: humans set the direction, the Agent executes
+- 🎶 [音频制作Agent](https://github.com/WakeUp-Jin/reasonVoiceAgent-introduction) - An AI-driven audio creation platform, where AI agents handle voice-over, sound effects, and BGM matching and generation
+- 🌵 [Reason Code](https://github.com/WakeUp-Jin/reason-code) - Reason Code is a coding Agent that runs in your terminal
+- 🦾 [HeartClaw](https://github.com/WakeUp-Jin/heartclaw) - A self-evolving personal AI Agent with long- and short-term memory, autonomous patrols, and self-forged tools
 
 ### 🍏 Contact 
 公众号「锦康灵感铺」 · 微信号「a2385472291」 · 2385472291@qq.com · [稀土掘金](https://juejin.cn/user/4224735995759975) · [小红书](https://www.xiaohongshu.com/user/profile/5f2b55730000000001005a90)
