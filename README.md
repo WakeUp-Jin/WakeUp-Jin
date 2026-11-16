@@ -26,7 +26,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - 🪐 [Actspace Agent](https://github.com/WakeUp-Jin/actspace-agent) - A local Agent desktop app and Harness for models, starting from a Coding Agent
 - 🍍 [agent-harness-dev](https://github.com/WakeUp-Jin/agent-harness-dev) -  A Skill for building Agent backends
 - 🚄 [code-develop-harness-init](https://github.com/WakeUp-Jin/code-develop-harness-init) - A project init template (Harness) for Agent-first development
-- 🎶 [音频制作Agent](https://github.com/WakeUp-Jin/reasonVoiceAgent-introduction) -  An AI-driven audio platform for voice-over, sound effects, and BGM
+- 🎶 [Reason Voice Agent](https://github.com/WakeUp-Jin/reasonVoiceAgent-introduction) -  An AI-driven audio platform for voice-over, sound effects, and BGM
 - 🌵 [Reason Code](https://github.com/WakeUp-Jin/reason-code) - Reason Code is a coding Agent that runs in your terminal
 - 🦾 [HeartClaw](https://github.com/WakeUp-Jin/heartclaw) - A self-evolving personal AI Agent with memory, autonomous patrols, and self-forged tools
 
