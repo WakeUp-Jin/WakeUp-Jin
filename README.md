@@ -9,7 +9,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry
 - 📚 &nbsp; Enjoying reading and accumulating knowledge
 - 📖 &nbsp; Novels: *《剑来》* and *《雪中悍刀行》*
 - 📺 &nbsp; Cartoon: *One Piece* and *《一人之下》* and *《星游记》*
-- 🔗 &nbsp; Want to know more? Check out my blog: [EN](<[EN_BLOG_URL](https://wakeup-jin.netlify.app/en/)>), [中文](<[ZH_BLOG_URL](https://wakeup-jin.netlify.app/)>).
+- 🔗 &nbsp; Want to know more? Check out my blog: [EN](https://wakeup-jin.netlify.app/en/), [中文](https://wakeup-jin.netlify.app/).
 
 
 [<span><a href="https://github.com/anuraghazra/github-readme-stats"><img src="./profile/top-langs.svg" height=145/></a></span>
