@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">WakeUp-Jin's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 927, Total Commits  (last year) : 1279, Total PRs: 274, Total Issues: 2, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 928, Total Commits  (last year) : 1279, Total PRs: 274, Total Issues: 2, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 51.68886871739983;
+        stroke-dashoffset: 51.60849085561775;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >927</text>
+      >928</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
